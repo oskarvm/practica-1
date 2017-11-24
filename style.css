@@ -1,0 +1,32 @@
+body {
+	
+   margin: 50px;
+	background-color: green;
+	
+}
+
+.titulo {
+
+	font-size:100px; 
+	color: black;
+	font-family: Serif;
+	position: center;
+}
+
+.parrafo {
+    float: left;
+}
+
+img {
+
+	width: 20rem;
+	height: 30rem;
+	border: 5px solid black;
+	margin: 0;
+}
+
+iframe {
+
+border: 5px solid black;
+
+}
